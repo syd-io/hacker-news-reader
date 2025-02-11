@@ -1,0 +1,6 @@
+pip install tabulate
+pip install sumy
+pip install lxml_html_clean
+
+import nltk
+nltk.download('punkt_tab')
